@@ -8,7 +8,8 @@ I'm Min Gyu Park from Korea, and a second year at Yeungnam University.<br>
 영남대학교 2학년 재학중인 박민규입니다.<br>
 
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=22212072@yu.ac.kr&theme=2077" />
-  <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=22212072@yu.ac.kr&theme=2077" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22212072@yu.ac.kr&show_icons=true&theme=radical)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22212072@yu.ac.kr&layout=compact&theme=radical)
