@@ -11,8 +11,8 @@ I'm Min Gyu Park from Korea, and a second year at Yeungnam University.
 <br>
 
 ## My Stats<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22212072@yu.ac.kr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22212072&show_icons=true&theme=radical)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22212072@yu.ac.kr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22212072&layout=compact&theme=radical)
